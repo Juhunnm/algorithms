@@ -1,0 +1,1 @@
+strArr.filter((v, i) => v.includes("ad") !== true)
